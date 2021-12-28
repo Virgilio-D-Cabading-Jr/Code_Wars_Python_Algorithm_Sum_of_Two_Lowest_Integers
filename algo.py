@@ -12,6 +12,6 @@ print("sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453]):", sum_
 
 print("sum_two_smallest_numbers([5, 8, 12, 18, 22]):", sum_two_smallest_numbers([5, 8, 12, 18, 22]))
 
-# print("sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453]):", sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453]))
+print("sum_two_smallest_numbers([7, 15, 12, 18, 22]):", sum_two_smallest_numbers([7, 15, 12, 18, 22]))
 
-# print("sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453]):", sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453]))
+print("sum_two_smallest_numbers([25, 42, 12, 18, 22]):", sum_two_smallest_numbers([25, 42, 12, 18, 22]))
