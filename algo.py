@@ -4,6 +4,6 @@
 
 def sum_two_smallest_numbers(numbers):
     numbers.sort();
-    print ("Numbers:", numbers)
+    return numbers[0] + numbers[1]
 
-sum_two_smallest_numbers([19, 5, 42, 2, 77])
+print("sum_two_smallest_numbers([19, 5, 42, 2, 77]):", sum_two_smallest_numbers([19, 5, 42, 2, 77]))
